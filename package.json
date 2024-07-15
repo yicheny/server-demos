@@ -1,0 +1,19 @@
+{
+  "name": "server-demos",
+  "version": "1.0.0",
+  "description": "使用不同的库或框架搭建后台服务，实践相关技术",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./src/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
